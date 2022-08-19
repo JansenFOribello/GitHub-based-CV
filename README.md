@@ -1,2 +1,1 @@
-# Ruffa Mae Amparo's CV
-Her First GitHub Web Page Repository
+# GitHub-based CV for client
